@@ -1,4 +1,4 @@
-#Simple fraction to mixed number converter
+#Simple fraction to mixed number converter 5kyu
 #Please check out the kata on: https://www.codewars.com/kata/556b85b433fb5e899200003f
 
 import math
