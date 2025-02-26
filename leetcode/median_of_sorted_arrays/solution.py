@@ -14,3 +14,4 @@ def findMedianSortedArrays(nums1, nums2):
 
 
 print(findMedianSortedArrays([2, 3],[]))
+
